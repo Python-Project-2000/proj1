@@ -1,0 +1,30 @@
+[
+    {
+        "quiz_title": "json1",
+        "quiz_password": "json",
+        "total_questions": 4,
+        "total_marks": 4,
+        "total_time": "2"
+    },
+    {
+        "quiz_title": "json2",
+        "quiz_password": "json",
+        "total_questions": 4,
+        "total_marks": 4,
+        "total_time": "2"
+    },
+    {
+        "quiz_title": "json3",
+        "quiz_password": "23",
+        "total_questions": 4,
+        "total_marks": 4,
+        "total_time": 5
+    },
+    {
+        "quiz_title": "654321",
+        "quiz_password": "4321",
+        "total_questions": 4,
+        "total_marks": 4,
+        "total_time": "0.5"
+    }
+]

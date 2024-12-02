@@ -1,0 +1,40 @@
+[
+    {
+        "quiz_title": "json3",
+        "question_type": "Multiple Correct Answer",
+        "question": "quiz1",
+        "marks": 1,
+        "answers": {
+            "options": [
+                "a",
+                "b",
+                "New Option"
+            ],
+            "correct_answers": [
+                1,
+                2
+            ]
+        }
+    },
+    {
+        "quiz_title": "json3",
+        "question_type": "True/False",
+        "question": "true or false",
+        "marks": 1,
+        "answers": "True"
+    },
+    {
+        "quiz_title": "json3",
+        "question_type": "Short Answer",
+        "question": "short answer",
+        "marks": 1,
+        "answers": "short"
+    },
+    {
+        "quiz_title": "json3",
+        "question_type": "Integer Type",
+        "question": "integer type",
+        "marks": 1,
+        "answers": "type"
+    }
+]
